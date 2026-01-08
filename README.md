@@ -1,4 +1,3 @@
-# facct_ai_registers
 
 This repository contains the data and code used to generate the figures presented in the paper *Understanding the Role of Algorithm Registers in AI Governance Through
 Comparative Analysis of China and the UK*.
